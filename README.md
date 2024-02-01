@@ -1,13 +1,12 @@
 # Adobe-URL-Block-List
-This is the Adobe URL/IP block list for the Hosts file,
-Make sure you run your favourite editor as Administrator to open and save the hosts file,
-Just copy and paste the full list into your hosts file and save, This will then block all the URLs/IPs that Adobe use,
-If you have any extra URLs/IPs then give me a shout and I'll add them to the list.
 
-I've now added a hosts file you can download and use.,
-The location of the hosts file is C:\Windows\System32\drivers\etc
-You may need to checck your setting to show hidden files, Once there just overwrite with the hosts file here or add the full list to your hosts file,
-Any issues then please open an issue and I'll reply as soon as I can.
+Ceci est la liste de blocs Adobe URL/IP pour le fichier Hosts,
+Assurez-vous d'exécuter votre éditeur préféré en tant qu'administrateur pour ouvrir et enregistrer le fichier hosts,
+Il suffit de copier et coller la liste complète dans votre fichier d'hôtes et d'enregistrer, Cela bloquera ensuite toutes les URL/IP utilisées par Adobe,
+Si vous avez des URL/IP supplémentaires, donnez-moi et je les ajouterai à la liste.
+
+L'emplacement du fichier hosts est C:\Windows\System32\drivers\etc
+Vous devrez peut-être afficher les fichiers cachés, il suffit d'ajouter la liste complète à votre fichier hosts
 
 127.0.0.1 192.150.14.69<br>
 127.0.0.1 192.150.18.101<br>
